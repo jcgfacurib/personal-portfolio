@@ -1,7 +1,9 @@
 # My Portfolio
 
 A single-page, fully responsive portfolio website. Builds on a previous plain-HTML project by adding CSS styling — Flexbox layout, media queries, the box model, custom typography, and a dark mode toggle powered by CSS variables and a small bit of JavaScript.
+
 https://roadmap.sh/projects/portfolio-website
+
 ## Repository
 
 [https://github.com/jcgfacurib/website](https://github.com/jcgfacurib/website)
